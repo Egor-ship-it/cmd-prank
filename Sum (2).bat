@@ -1,0 +1,2 @@
+more a.txt
+Pause
