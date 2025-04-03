@@ -1,2 +1,0 @@
-more a.txt
-Pause
